@@ -5,6 +5,9 @@ description: |
   TRIGGER when the user says: "parent update", "weekly note for the family", "summary for [child]'s parents", "biweekly update for caregivers", or asks to translate progress notes into something parent-friendly.
   SKIP when: writing internal clinical notes (use session-note), drafting a formal IEP progress report (use iep-progress-report), or composing a difficult-conversation document about regression or major incidents (use family-incident-letter).
 type: skill
+title: Parent Update
+parent: Examples
+nav_order: 4
 ---
 
 # Parent Update Drafter

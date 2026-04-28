@@ -1,3 +1,9 @@
+---
+title: 4. ABA recipes
+parent: Lessons
+nav_order: 4
+---
+
 # Lesson 4 — ABA-specific patterns and recipes
 
 This lesson is the payoff: concrete patterns for the recurring tasks of school-based ABA practice. Each section gives you a **pattern** (what the skill should look like in shape) and a pointer to a complete working example in the [`examples/`](../examples/) folder.

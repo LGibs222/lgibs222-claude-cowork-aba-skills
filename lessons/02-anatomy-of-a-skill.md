@@ -1,3 +1,9 @@
+---
+title: 2. Anatomy of a skill file
+parent: Lessons
+nav_order: 2
+---
+
 # Lesson 2 — Anatomy of a skill file
 
 A skill is one Markdown file. Two parts: **frontmatter** at the top, **body** below.

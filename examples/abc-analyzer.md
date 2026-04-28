@@ -5,6 +5,9 @@ description: |
   TRIGGER when the user says: "analyze this ABC data", "what's the function here", "interpret these ABC incidents", "what does this trend tell us", or pastes a list of ABC incidents and asks for analysis.
   SKIP when: the user wants a full FBA write-up (use fba-quickstart), wants graphing of frequency/duration data only with no ABC content (use data-graph), or wants a parent-facing summary (use parent-update-drafter).
 type: skill
+title: ABC Analyzer
+parent: Examples
+nav_order: 2
 ---
 
 # ABC Data Analyzer

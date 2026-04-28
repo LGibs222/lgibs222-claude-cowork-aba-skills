@@ -1,3 +1,9 @@
+---
+title: 3. Writing skills that fire
+parent: Lessons
+nav_order: 3
+---
+
 # Lesson 3 — Writing skills that actually fire
 
 Most skills that fail don't fail because of bad content. They fail because Claude never picked them in the first place. This lesson is about making sure your skill triggers when it should — and *doesn't* trigger when it shouldn't.

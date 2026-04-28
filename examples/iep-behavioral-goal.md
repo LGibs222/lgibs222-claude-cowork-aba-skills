@@ -5,6 +5,9 @@ description: |
   TRIGGER when the user says: "write a behavior goal for [student]", "draft an IEP goal", "annual goal for [target behavior]", "behavioral goal", "social-emotional goal", or asks to convert an FBA hypothesis into an IEP goal.
   SKIP when: writing academic goals (this skill is for behavior/SEL only), drafting a full BIP (use bip-drafter), or rewriting a goal that already exists in compliant form (use goal-revision).
 type: skill
+title: IEP Behavioral Goal
+parent: Examples
+nav_order: 3
 ---
 
 # IEP Behavioral Goal Drafter

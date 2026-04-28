@@ -5,6 +5,9 @@ description: |
   TRIGGER when the user says: "start an FBA for [student]", "write an FBA", "draft FBA", "begin a functional behavior assessment", or pastes ABC/indirect/descriptive data and asks for an FBA write-up.
   SKIP when: updating an already-completed FBA (use fba-revision), drafting a BIP from a completed FBA (use bip-drafter), or producing a parent-facing summary of behavior (use parent-update-drafter).
 type: skill
+title: FBA Quickstart
+parent: Examples
+nav_order: 1
 ---
 
 # FBA Quickstart — School-Based ABA, NY

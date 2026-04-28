@@ -5,6 +5,9 @@ description: |
   TRIGGER when the user says: "coaching note for [teacher]", "post-observation note", "feedback for the teacher", "fidelity check on [intervention]", "after-observation summary", or describes an observation and asks for a follow-up note.
   SKIP when: writing a formal performance evaluation (this is collaborative coaching, not evaluation), drafting a parent update (use parent-update-drafter), or producing internal clinical documentation only (use session-note).
 type: skill
+title: Teacher Coaching Note
+parent: Examples
+nav_order: 5
 ---
 
 # Teacher Coaching Note

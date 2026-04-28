@@ -1,3 +1,9 @@
+---
+title: 5. Installing & sharing
+parent: Lessons
+nav_order: 5
+---
+
 # Lesson 5 — Installing and sharing skills
 
 You have a `.md` skill file. Now: where does it go, how do you test it, and how do you share it with a team?
